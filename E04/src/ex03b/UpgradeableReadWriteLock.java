@@ -1,29 +1,36 @@
 package ex03b;
 
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
+
 public class UpgradeableReadWriteLock {
-  // TODO: Implement
+  private ReentrantReadWriteLock readWriteLock = new ReentrantReadWriteLock();
+  private Lock monitor = new ReentrantLock();
 
   public void readLock() throws InterruptedException {
-    // TODO:
+    readWriteLock.readLock().lock();
   }
 
   public void readUnlock() {
-    // TODO:
+    readWriteLock.readLock().unlock();
   }
 
   public void upgradeableReadLock() throws InterruptedException {
-    // TODO:
+    monitor.lock();
   }
 
   public void upgradeableReadUnlock() {
-    // TODO:
+    monitor.unlock();
   }
 
   public void writeLock() throws InterruptedException {
-    // TODO:
+    monitor.lock();
+    readWriteLock.writeLock().lock();
   }
 
   public void writeUnlock() {
-    // TODO:
+    readWriteLock.writeLock().unlock();
+    monitor.unlock();
   }
 }
