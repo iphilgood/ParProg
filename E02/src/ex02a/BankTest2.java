@@ -1,4 +1,4 @@
-package ex02;
+package ex02a;
 
 import java.util.ArrayList;
 import java.util.List;

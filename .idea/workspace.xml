@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275b19a4-a52d-4a1c-98f8-aa669afe2302" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTicker.java" afterPath="$PROJECT_DIR$/E01/src/ex02a/ConsoleTicker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTickerThread.java" afterPath="$PROJECT_DIR$/E01/src/ex02a/ConsoleTickerThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/E02/src/ex02/BankTest2.java" afterPath="$PROJECT_DIR$/E02/src/ex02a/BankTest2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTicker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTickerThread.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/E02/src/ex02/BankTest2.java" afterPath="" />
     </list>
     <ignored path="ParProg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -746,7 +742,7 @@
       <workItem from="1458811024398" duration="587000" />
       <workItem from="1458812775051" duration="2180000" />
       <workItem from="1459420656963" duration="6687000" />
-      <workItem from="1459429174161" duration="2316000" />
+      <workItem from="1459429174161" duration="2433000" />
     </task>
     <servers />
   </component>
@@ -759,7 +755,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33261000" />
+    <option name="totallyTimeSpent" value="33378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-196" y="-1027" width="1680" height="1027" extended-state="6" />
@@ -777,7 +773,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13492064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21855922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

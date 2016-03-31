@@ -1,4 +1,4 @@
-package ex02;
+package ex02a;
 
 public class ConsoleTickerThread extends Thread {
   private char sign;
