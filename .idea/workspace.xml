@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275b19a4-a52d-4a1c-98f8-aa669afe2302" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTicker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/src/ex02/ConsoleTickerThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E02/src/ex02/BankTest2.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ParProg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -742,7 +740,7 @@
       <workItem from="1458811024398" duration="587000" />
       <workItem from="1458812775051" duration="2180000" />
       <workItem from="1459420656963" duration="6687000" />
-      <workItem from="1459429174161" duration="2433000" />
+      <workItem from="1459429174161" duration="2499000" />
     </task>
     <servers />
   </component>
@@ -755,7 +753,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33378000" />
+    <option name="totallyTimeSpent" value="33444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-196" y="-1027" width="1680" height="1027" extended-state="6" />
